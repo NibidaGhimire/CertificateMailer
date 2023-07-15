@@ -1,6 +1,9 @@
 # CertificateMailer
 
 
+- npm install nodemailer canvas fs
+
+
 -In the env.js file, add your Email and Password.
 
 
