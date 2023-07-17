@@ -1,7 +1,10 @@
 # CertificateMailer
 
 
-- npm install nodemailer canvas fs
+DRAWS TEXT ON THE CENTER LINE OF IMAGE AND SENDS TO THE EMAIL.
+
+
+- npm install nodemailer canvas fs nodemon express
 
 
 -In the env.js file, add your Email and Password.
